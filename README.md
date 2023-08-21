@@ -21,7 +21,7 @@ $ pnpm <package-name> <command>
 $ pnpm client dev
 ```
 
-### Skill set
+### Skill Set
 
 ```txt
 - application
@@ -35,7 +35,7 @@ $ pnpm client dev
   axios
 ```
 
-### Directory structure
+### Directory Structure
 
 ```bash
 ...
